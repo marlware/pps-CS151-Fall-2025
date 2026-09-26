@@ -11,7 +11,7 @@ class LabubuTest {
 
     @BeforeEach
     void setUp() {
-        vendor = new VendorTemp("Pop Shop", "shop@example.com");
+        vendor = new VendorTemp("Pop Shop", "shop@example.com", "password");
     }
 
     @Test
