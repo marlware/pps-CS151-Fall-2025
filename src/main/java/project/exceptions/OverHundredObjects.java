@@ -2,6 +2,8 @@ package project.exceptions;
 
 public class OverHundredObjects extends Exception {
 
+    private static final long serialVersionUID = 1L;
+
     public OverHundredObjects() {
         super();
         //System.out.println("Cannot create more than 100 objects of this class."); //will use this error when we catch this, not here

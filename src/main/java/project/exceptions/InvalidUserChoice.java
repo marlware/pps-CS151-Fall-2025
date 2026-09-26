@@ -2,6 +2,8 @@ package project.exceptions;
 
 public class InvalidUserChoice extends Exception {
 
+    private static final long serialVersionUID = 1L;
+
     public InvalidUserChoice(){
         super();
     }
