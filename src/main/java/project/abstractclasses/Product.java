@@ -134,10 +134,6 @@ public abstract class Product implements Cloneable {
     //belows are setters and getters
     
     //for id
-    private void setVendorProductId(int vendorProductId){  //might not need this, ID should be immutable after creation
-        if(vendorProductId <= 0) throw new IllegalArgumentException("vendorProductId must be > 0!");
-        this.vendorProductId = vendorProductId; 
-    }
     public int getVendorProductId() { return this.vendorProductId; }
 
     //for type
