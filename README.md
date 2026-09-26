@@ -27,7 +27,7 @@ Option 1 - Running on Eclipse
   Type this in your terminal - git clone https://github.com/<your-username>/pps-CS151-Fall-2025.git
   <li>Then open Eclipse and you will see the project folder(pps-CS151-Fall-2025) in your project explorer</li>
   <li>If you click on the folder, you will find the src and then src/main/java/project/models/ShopTemp.java</li>
-  <li>Right click on Shop.java and run as Java application</li>
+  <li>Right click on ShopTemp.java and run as Java application</li>
 </ol>
 <br>
 Option 2 - Running on Visual Studio Code
