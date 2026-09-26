@@ -2,10 +2,6 @@ package project.models;
 
 import java.time.Instant;
 
-import javax.swing.ProgressMonitor;
-
-import project.abstractclasses.Product;
-
 public class PromoWindow {
 
     private final double discountFraction;
