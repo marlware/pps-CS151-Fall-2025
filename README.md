@@ -46,7 +46,6 @@ Option 3 - Running from the Command Line (no IDE)
 </ol>
 
 ## Usage
-Run the program and follow the console prompts (type a number between 1–11) to browse products, read their descriptions, and more. Build your curated collection of performative goods and explore what each vendor has to offer.
 Run the program and follow the console prompts (type a number between 1–11) to:
 <ul>
   <li>Browse vendors and products</li>
